@@ -78,3 +78,7 @@ To skip typing `--devices` every time, edit the `DEVICES` line at the top of
 - **No sound on the copy while a game or audio app uses exclusive mode:** Windows can't
   loop back audio that an app is playing in exclusive mode. Turn off "Allow
   applications to take exclusive control" in the default device's properties.
+
+## License
+
+[MIT](LICENSE)
